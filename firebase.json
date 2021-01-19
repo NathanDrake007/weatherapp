@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "pwa-weather-007",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
