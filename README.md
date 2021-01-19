@@ -1,7 +1,7 @@
 # 🎉🎉🎉 COMPLETED 🎉🎉🎉
 
-# pwa-weatherapp
+# weatherapp
 
-A PWA Weather App using react js
+A Weather App using react js
 
 # Demo https://pwa-weather-007.web.app
